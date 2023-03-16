@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mui-picker-deployment/static/css/main.9357e58b.css",
+    "main.js": "/mui-picker-deployment/static/js/main.7873b7d3.js",
+    "static/js/787.75624ef4.chunk.js": "/mui-picker-deployment/static/js/787.75624ef4.chunk.js",
+    "index.html": "/mui-picker-deployment/index.html",
+    "main.9357e58b.css.map": "/mui-picker-deployment/static/css/main.9357e58b.css.map",
+    "main.7873b7d3.js.map": "/mui-picker-deployment/static/js/main.7873b7d3.js.map",
+    "787.75624ef4.chunk.js.map": "/mui-picker-deployment/static/js/787.75624ef4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9357e58b.css",
+    "static/js/main.7873b7d3.js"
+  ]
+}
